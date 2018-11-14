@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\damla\Desktop\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\damla\Desktop\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\damla\Desktop\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\damla\Desktop\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
